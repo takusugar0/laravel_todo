@@ -1,2 +1,2 @@
-# laravel_todo
-laravelで作ったTodoアプリ　　
+# Todo app
+Todo app made with Laravel
